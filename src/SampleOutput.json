@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 669,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Winter Olympics: Global sponsors quiet ahead of Beijing Games",
+    "description": "A week before the Beijing Games start, global partners are lying low.",
+    "url": "https://www.bbc.co.uk/news/business-60136347",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A176/production/_118243314_tokyo_gettytwo.jpg",
+    "publishedAt": "2022-01-28T01:13:50Z",
+    "content": "By James Clayton &amp; Jasmin DyerBBC News\r\nImage source, Getty Images\r\nNext month's Winter Olympics is a huge marketing opportunity for sponsors - a showcase for brands. \r\nHowever, Beijing 2022 is c… [+6576 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple teases metaverse AR plans, stock jumps - Reuters",
+    "description": "Apple Inc teased its metaverse ambitions on Thursday as CEO Tim Cook talked expansion of the company's augmented reality apps, prompting strong investor response.",
+    "url": "https://www.reuters.com/technology/apple-teases-metaverse-ar-plans-stock-jumps-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/resizer/ikpJAeqFgbquUHDQKBqi9Q0h1Ac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XOWAQVR3VVIYFIAJLEAH2AXZHA.jpg",
+    "publishedAt": "2022-01-28T01:00:00Z",
+    "content": "NEW YORK, Jan 27 (Reuters) - Apple Inc teased its metaverse ambitions on Thursday as CEO Tim Cook talked expansion of the company's augmented reality apps, prompting strong investor response.\r\nThe co… [+2169 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Nikkei posts worst week in 2 months, despite Apple-inspired rebound - Reuters",
+    "description": "Japan's Nikkei rebounded on Friday from a 14-week closing low, buoyed by strong earnings from Apple Inc, but still registered its biggest weekly drop in two months.",
+    "url": "https://www.reuters.com/markets/europe/nikkei-posts-worst-week-2-months-despite-apple-inspired-rebound-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69",
+    "publishedAt": "2022-01-28T06:32:00Z",
+    "content": "TOKYO, Jan 28 (Reuters) - Japan's Nikkei rebounded on Friday from a 14-week closing low, buoyed by strong earnings from Apple Inc, but still registered its biggest weekly drop in two months.\r\nThe Nik… [+2473 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Asian stocks, U.S. futures regain footing after Fed rate shock - Reuters",
+    "description": "Asian stocks recovered some of their steep losses from the previous session on Friday after U.S. markets limited further declines from hawkish U.S. Fed comments, supported by a firm economy and strong earnings at Apple Inc <a href=\"https://www.reuters.com/com…",
+    "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/resizer/NQjgDWgRT316038UFPDRuRvzXlc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CIC6RJKDSJJHXONVWT5BXIBHDY.jpg",
+    "publishedAt": "2022-01-28T02:31:00Z",
+    "content": "Jan 28 (Reuters) - Asian stocks recovered some of their steep losses from the previous session on Friday after U.S. markets limited further declines from hawkish U.S. Fed comments, supported by a fir… [+2743 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "India shares gain on energy, banking boost - Reuters",
+    "description": "Indian shares rose on Friday, lifted by energy and banking stocks amid strong earnings momentum, while a slight rebound in global markets also aided investor sentiment.",
+    "url": "https://www.reuters.com/world/india/india-shares-gain-energy-banking-boost-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/resizer/1o3yBGdN4NLOe5wvYM1EltN1alM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EFGMTS3Y4JPKJN7YTA3AH3IKVE.jpg",
+    "publishedAt": "2022-01-28T04:29:00Z",
+    "content": "BENGALURU, Jan 28 (Reuters) - Indian shares rose on Friday, lifted by energy and banking stocks amid strong earnings momentum, while a slight rebound in global markets also aided investor sentiment.\r… [+1061 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "SK Hynix sees supply chain issues improving in H2, more chip demand - Reuters",
+    "description": "South Korean chipmaker SK Hynix Inc <a href=\"https://www.reuters.com/companies/000660.KS\" target=\"_blank\">(000660.KS)</a> said it expects supply chain issues to gradually improve from the second half of the year and demand for memory chips to grow, after book…",
+    "url": "https://www.reuters.com/business/sk-hynix-sees-supply-chain-issues-improving-h2-more-chip-demand-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/resizer/gBSOT5ATEeAEr03u241blG2fptE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M7EE37ZCZNMFHMZ3T2OGF2A3R4.jpg",
+    "publishedAt": "2022-01-28T00:42:00Z",
+    "content": "SEOUL, Jan 28 (Reuters) - South Korean chipmaker SK Hynix Inc (000660.KS) said it expects supply chain issues to gradually improve from the second half of the year and demand for memory chips to grow… [+1845 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "VEGOILS Palm extends gains after Indonesia limits exports - Reuters",
+    "description": "Malaysian palm oil futures extended gains on Friday to a fourth session, putting the benchmark contract on course for a sixth straight weekly rise, as top producer Indonesia limited exports.",
+    "url": "https://www.reuters.com/markets/asia/vegoils-palm-extends-gains-after-indonesia-limits-exports-2022-01-28/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69",
+    "publishedAt": "2022-01-28T03:02:00Z",
+    "content": "JAKARTA, Jan 28 (Reuters) - Malaysian palm oil futures extended gains on Friday to a fourth session, putting the benchmark contract on course for a sixth straight weekly rise, as top producer Indones… [+2107 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Phil Harrison and Hollie Richardson",
+    "title": "Pam & Tommy to Station Eleven: the seven best shows to stream this week",
+    "description": "It’s back to the 90s for the stolen sex tape saga of Pamela Anderson and Tommy Lee, and brace yourself for a beautiful drama about the aftermath of a deadly pandemic Continue reading...",
+    "url": "https://amp.theguardian.com/tv-and-radio/2022/jan/28/pam-tommy-to-station-eleven-the-seven-best-shows-to-stream-this-week",
+    "urlToImage": "https://i.guim.co.uk/img/media/c91c3d079e62bb1dc107d4ec2223f40e552ac4f7/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44e45e4997cb7281bc6d5dfa78370611",
+    "publishedAt": "2022-01-28T07:00:04Z",
+    "content": "Pick of the week\r\nStation Eleven\r\nHimesh Patel and Matilda Lawler in Station Eleven. Photograph: Parrish Lewis/Starzplay\r\nReady for a drama about the aftermath of a devastating flu outbreak yet? Base… [+4627 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "iOS 15.4 Will Allow Third-Party Apps to Take Full Advantage of iPhone 13 Pro 120Hz ProMotion Displays",
+    "description": "After the launch of the iPhone 13 Pro models with 120Hz ProMotion, it became clear that most third-party app animations were limited to 60Hz and were unable to take advantage of the 120Hz maximum refresh rate of the new devices. At the time, Apple said there …",
+    "url": "https://www.macrumors.com/2022/01/27/ios-15-4-apps-120-hz-promotion/",
+    "urlToImage": "https://images.macrumors.com/t/51CTQl5VSm93q-2buKASV3dXA2M=/1948x/article-new/2021/09/iphone-14-pro-120hz-promotion-blue.jpg",
+    "publishedAt": "2022-01-28T00:06:32Z",
+    "content": "After the launch of the iPhone 13 Pro models with 120Hz ProMotion, it became clear that most third-party app animations were limited to 60Hz and were unable to take advantage of the 120Hz maximum ref… [+1210 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "wantonelli@insider.com (William Antonelli)",
+    "title": "How to cancel your SiriusXM subscription in 2 ways",
+    "description": "You can cancel your SiriusXM subscription through your iPhone's Settings app, your Android's Play Store, or by contacting SiriusXM.",
+    "url": "https://www.businessinsider.com/cancel-siriusxm",
+    "urlToImage": "https://i.insider.com/61f31da4415c3f0018d347a8?width=1200&format=jpeg",
+    "publishedAt": "2022-01-28T01:42:14Z",
+    "content": "For some people, SiriusXM is synonymous with radio. But even if you've had it for years, there might come a time when you don't want to pay SiriusXM's monthly fees.\r\nNo matter your reason, there are … [+2546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Apple Revenue Pops 11% To $123.9 Billion Despite Supply Chain Concerns",
+    "description": "According to CNBC, Apple \"beat analyst estimates for sales in every product category except iPads and overall revenue was up 11% annually.\" This is despite global supply chain challenges caused by the covid-19 pandemic. Here is how Apple did in the quarter en…",
+    "url": "https://apple.slashdot.org/story/22/01/27/2242223/apple-revenue-pops-11-to-1239-billion-despite-supply-chain-concerns",
+    "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+    "publishedAt": "2022-01-28T01:25:00Z",
+    "content": "EPS: $2.10 vs. $1.89 estimated, up 25% year-over-yearRevenue: $123.9 billion vs. $118.66 billion estimated, up 11% year-over-yeariPhone revenue: $71.63 billion vs. $68.34 billion estimated, up 9% yea… [+954 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketBeat"
+    },
+    "author": "Sean Sechler",
+    "title": "The Top 3 Stocks to Buy in February",
+    "description": "That’s why we’ve put together the following list of the top 3 stocks to buy in February so that you can approach this month with the confidence needed to take...",
+    "url": "https://www.marketbeat.com/originals/the-top-3-stocks-to-buy-in-february/?utm_source=entrepreneurcom&amp;amp;utm_medium=entrepreneurcom",
+    "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-415659.jpeg",
+    "publishedAt": "2022-01-28T07:00:00Z",
+    "content": "Consider Adding These 3 Stocks Next Month \r\nWith the stock market off to one of the worst starts to a year in recent memory, the idea of adding new positions in February might be met with some hesita… [+4450 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Trevor Mogg",
+    "title": "Apple reports record revenue despite global chip shortage",
+    "description": "Despite the global chip shortage, Apple has reported record revenue for its most recent quarter, thanks largely to strong sales of the new iPhone 13.",
+    "url": "https://www.digitaltrends.com/news/apple-reports-record-revenue-despite-chip-shortage/",
+    "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/apple-logo-13.jpg",
+    "publishedAt": "2022-01-28T01:00:06Z",
+    "content": "Apple on Thursday reported record revenue for its most recent quarter, thanks largely to strong sales of the new iPhone 13.\r\nDespite ongoing challenges caused by the global chip shortage, the tech gi… [+2257 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Frank Schräer",
+    "title": "Freitag: Datenschutzskandal in Lübeck, Apple bricht eigene Rekorde",
+    "description": "Sensible Behördendaten bei eBay + iPhone-Konzern trotzt Corona + EU für Metas Kustomer-Übernahme + Impfstofflügen bei Spotify + Mysteriöse Radioquelle im All",
+    "url": "https://www.heise.de/news/Freitag-Datenschutzskandal-in-Luebeck-Apple-bricht-eigene-Rekorde-6341417.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/6/5/3/0/6/freitag-d926ef626dfd4501.webp",
+    "publishedAt": "2022-01-28T05:30:00Z",
+    "content": "Ausgemusterten Firmen- und Behörden-PCs sind bei eBay oft interessante Schnäppchen, aber mitunter findet man brisante Daten, die keinesfalls an die Öffentlichkeit gehören. So geschehen in Lübeck, als… [+4199 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Daniel AJ Sokolov",
+    "title": "Impfstofflügen: Spotify-Kundendienst flüchtet vor verärgerten Kunden",
+    "description": "Spotifys Kundendienst ist derzeit nicht live ansprechbar. Offenbar beschweren sich zu viele, dass Spotify wissentlich falsche Infos über Impfstoffe verbreitet.",
+    "url": "https://www.heise.de/news/Impfstoffluegen-Spotify-Kundendienst-fluechtet-vor-veraergerten-Kunden-6341407.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/6/5/3/0/1/Daniel_Ek_2-661736faff98a29f.jpg",
+    "publishedAt": "2022-01-28T03:21:00Z",
+    "content": "Spotify-Kunden können derzeit nicht mit dem Kundendienst chatten. \"Wir bekommen gerade sehr viele Kontakte\", informiert eine Einblendung. Sie verweist auf Hilfstexte und ein Kundenforum. Letzteres st… [+2562 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "tvOS 15.4 beta adds ‘Up Next’ queue to Apple TV video player",
+    "description": "In addition to iOS 15.4 and macOS Monterey 12.3, Apple also released the first beta of tvOS 15.4 on Thursday. The update brings some tweaks to the default Apple TV video player, which now shows the user’s “Up Next” queue.\n more…\nThe post tvOS 15.4 beta adds ‘…",
+    "url": "https://9to5mac.com/2022/01/27/tvos-15-4-beta-adds-up-next-queue-to-apple-tv-video-player/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-TV-and-tvOS.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-28T03:58:11Z",
+    "content": "In addition to iOS 15.4 and macOS Monterey 12.3, Apple also released the first beta of tvOS 15.4 on Thursday. The update brings some tweaks to the default Apple TV video player, which now shows the u… [+1570 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "PSA: Face ID unlock when wearing a mask in iOS 15.4 works with Apple Pay and apps",
+    "description": "One of the best surprises that came with iOS 15.4 beta, which was released Thursday for developers, is a new option to enable Face ID when wearing a mask without the need to have an Apple Watch. What’s even better about this feature is that it works with Appl…",
+    "url": "https://9to5mac.com/2022/01/27/psa-face-id-unlock-when-wearing-a-mask-in-ios-15-4-works-with-apple-pay-and-apps/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Pay-Face-ID-apps-mask-iOS-15.4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-28T01:06:19Z",
+    "content": "One of the best surprises that came with iOS 15.4 beta, which was released Thursday for developers, is a new option to enable Face ID when wearing a mask without the need to have an Apple Watch. What… [+1428 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "How to watch whodunnit comedy series ‘The Afterparty’ on Apple TV+",
+    "description": "The first three episodes of The Afterparty TV show are now streaming on Apple TV+. The critically acclaimed comedy from Chris Miller and Phil Lord is a whodunnit murder mystery comedy with an interesting filmmaking twist; each episode is presented with a uniq…",
+    "url": "https://9to5mac.com/2022/01/27/the-afterparty-apple-tv-plus/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/how-to-watch-the-afterparty.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-01-28T05:28:00Z",
+    "content": "The first three episodes of The Afterparty TV show are now streaming on Apple TV+. The critically acclaimed comedy from Chris Miller and Phil Lord is a whodunnit murder mystery comedy with an interes… [+2663 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Therese Poletti",
+    "title": "MarketWatch First Take: After a monster quarter, Apple’s non-forecast is good enough for Wall Street",
+    "description": "Apple Inc. was expected to be the highlight among the Big Tech giants this quarter, with a big jump in net income, and many aspects of its results were more staggering than expected.",
+    "url": "https://www.marketwatch.com/story/after-a-monster-quarter-apples-non-forecast-is-good-enough-for-wall-street-11643336369",
+    "urlToImage": "https://images.mktw.net/im-401168/social",
+    "publishedAt": "2022-01-28T02:19:00Z",
+    "content": "Apple Inc.s holiday sales and profit totals were staggering once again, and CEO Tim Cook gave just enough of a forecast to satisfy Wall Street on Thursday but not enough to feel totally comfortable.A… [+2339 chars]"
+    },
+    {
+    "source": {
+    "id": "spiegel-online",
+    "name": "Spiegel Online"
+    },
+    "author": "DER SPIEGEL",
+    "title": "Apple meldet trotz Chipkrise Rekordumsätze für Weihnachtsquartal",
+    "description": "Etwa 124 Milliarden Dollar Umsatz im Weihnachtsgeschäft: Apple hat im vergangenen Quartal so viel Gewinn gemacht, wie noch nie – trotz des Chipmangels. Der soll den Konzern mehrere Milliarden Dollar gekostet haben.",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/apple-meldet-trotz-chipkrise-rekordumsaetze-fuer-weihnachtsquartal-a-0e14b0db-f766-404e-81ca-1d7c087c46d6",
+    "urlToImage": "https://cdn.prod.www.spiegel.de/images/6ce1e8a7-2b03-4b6b-aefd-70770af956ae_w1280_r1.77_fpx33.34_fpy50.jpg",
+    "publishedAt": "2022-01-28T02:50:20Z",
+    "content": "Apple hat im vergangenen Weihnachtsgeschäft trotz der globalen Chip-Knappheit erneut Rekordzahlen eingefahren. Der Quartalsgewinn erreichte 34,6 Milliarden US-Dollar. Das war gut ein Fünftel mehr als… [+3509 chars]"
+    }
+    ]
+    }
