@@ -1,5 +1,5 @@
 {
-  "homepage": "https://git.heroku.com/newspaper-top-heading.git",
+  "homepage": "https://newspaper-top-heading.herokuapp.com/",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
